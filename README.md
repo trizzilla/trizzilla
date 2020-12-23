@@ -7,7 +7,9 @@
 - ⚡ Fun fact: ...
 
 -->
-Hi there 👋
+Hi there 👋,
+
+<br/>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Reactjs admin with different types of auth.
