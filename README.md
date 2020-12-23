@@ -6,7 +6,7 @@
 
 - ⚡ Fun fact: ...
 
--->
+
 Hi there 👋,
 
 <br/>
@@ -20,6 +20,9 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Python data analysis
 - 📫 How to reach me: trisangjigme@protonmail.com
 - 😄 Pronouns: He/Him/His...
+
+
+-->
 
 
 
