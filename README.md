@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: trisangjigme@protonmail.com
 - 😄 Pronouns: He/Him/His...
 
-
--->
 [![Trizzy's github stats](https://github-readme-stats.vercel.app/api?username=trizzilla)](https://github.com/trizzilla/github-readme-stats)
+-->
+
 
 
 
